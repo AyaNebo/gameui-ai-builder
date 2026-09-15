@@ -1,0 +1,10 @@
+node_modules/
+.next/
+*.tsbuildinfo
+playwright-report/
+test-results/
+tests/*.png
+.env*.local
+.DS_Store
+.next-old*
+.env.local.example.bak

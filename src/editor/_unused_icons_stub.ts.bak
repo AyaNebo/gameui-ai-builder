@@ -1,0 +1,4 @@
+// Superseded by icons.tsx (this file needed JSX and the sandbox this was
+// authored in cannot delete files, only overwrite them). Not imported
+// anywhere — kept as an inert placeholder rather than a stray broken module.
+export {};
